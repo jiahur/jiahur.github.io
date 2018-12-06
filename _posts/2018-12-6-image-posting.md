@@ -9,7 +9,7 @@ tags:
 
 **이미지 업로드 테스팅**
 이미지 파일 업로드
-![png이미지_image01](D:\jiahur.github.io\images\image01.png)
+![png이미지_image01]({{ site.baseurl }}/images/image01.png)
 
 
 
