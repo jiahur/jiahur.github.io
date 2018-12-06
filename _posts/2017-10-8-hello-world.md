@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: First Posting - 첫번째 업로드
 tags:
   - test
   - tags
 ---
+
+**첫번째 테스트 포스팅**
+github 블로그 테스팅 중입니다.
+
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
