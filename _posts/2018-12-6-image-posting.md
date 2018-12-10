@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  이미지 업로드 테스팅
-
+author: jhhur
 tags:
   - test
   - image
